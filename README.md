@@ -15,3 +15,4 @@ typescript-storybook是TypeScript的学习笔记.
    - [基础类型](./doc/基础类型.md)
    - [复杂数据类型](./doc/复杂数据类型.md)
    - [函数](./doc/函数.md)
+   - [接口](./doc/接口.md)
