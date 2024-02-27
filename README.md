@@ -1,6 +1,6 @@
-# typescript-storybook
+# ts-notes
 
-typescript-storybook是TypeScript的学习笔记.
+ts-notes是TypeScript的学习笔记.
 
 1. TypeScript是什么
 
@@ -16,3 +16,6 @@ typescript-storybook是TypeScript的学习笔记.
    - [复杂数据类型](./doc/复杂数据类型.md)
    - [函数](./doc/函数.md)
    - [接口](./doc/接口.md)
+   - [类](./doc/类.md)
+   - [泛型](./doc/泛型.md)
+   - [keyof](./doc/keyof.md)
